@@ -1,7 +1,7 @@
--Type `any` cho phép sử dụng bất kì giá trị nào, hạn chế sử dụng type `any` nhất có thể
--Type `number` cho phép gán giá trị số -> 10, 10.5
--Type `string` dành cho giá trị chuỗi -> `javascript`, `typescript`
--Type `boolean`dành cho giá trị true or false
--Type `unknown` dành cho những biến hoặc param mà chúng ta chưa xác định được type rõ ràng của nó là gì .
--Sử dụng typeof trực tiếp vào biến hoặc param, chứ không sử dụng vào Type được
--Type `never` không gán được vào bất kì giá trị nào
+-Type `any` cho phép sử dụng bất kì giá trị nào, hạn chế sử dụng type `any` nhất có thể <br>
+-Type `number` cho phép gán giá trị số -> 10, 10.5 <br>
+-Type `string` dành cho giá trị chuỗi -> `javascript`, `typescript` <br>
+-Type `boolean`dành cho giá trị true or false <br>
+-Type `unknown` dành cho những biến hoặc param mà chúng ta chưa xác định được type rõ ràng của nó là gì . <br>
+-Sử dụng typeof trực tiếp vào biến hoặc param, chứ không sử dụng vào Type được <br>
+-Type `never` không gán được vào bất kì giá trị nào <br>
