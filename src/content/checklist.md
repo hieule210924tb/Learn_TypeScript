@@ -7,8 +7,8 @@
 -Type `never` ✅
 
 -Object ✅
--Union
+-Array ✅
+-Union ✅
 -Intersection
--Array
 -Tuple
 -Enum
