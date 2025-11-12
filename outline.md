@@ -1,0 +1,11 @@
+#Basic types
+-Number
+-String
+-Boolean
+-Null
+-Underfined
+-Any
+-Never
+-Unknown
+-Array
+-Object
