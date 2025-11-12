@@ -1,0 +1,14 @@
+-Type `any` ✅
+-Type `number` ✅
+-Type `string` ✅
+-Type `boolean` ✅
+-Type `unknown` ✅
+-Type `void` ✅
+-Type `never` ✅
+
+-Object ✅
+-Union
+-Intersection
+-Array
+-Tuple
+-Enum
