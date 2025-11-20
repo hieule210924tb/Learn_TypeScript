@@ -21,12 +21,12 @@ type B = {
 
 type C = A | B;
 
-function checkInfo(info: C) {
-  if ("x" in info) {
-    console.log(info.x);
-  }
-  if ("y" in info) {
-    console.log(info.y);
-  }
-}
+// function checkInfo(info: C) {
+//   if ("x" in info) {
+//     console.log(info.x);
+//   }
+//   if ("y" in info) {
+//     console.log(info.y);
+//   }
+// }
 // in kiểm tra một property nào đó có tồn tại bên trong object hay không ? Phù hợp khi kiểm tra với Union Type |
